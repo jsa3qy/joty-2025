@@ -1,0 +1,5985 @@
+[
+  {
+    "id": 1,
+    "joty_time": "2025-01-04 08:18",
+    "joty_text": "JOTY",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "20:26",
+        "sender": "Connor",
+        "text": "Cubicle room",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "20:29",
+        "sender": "Will",
+        "text": "So close yet so far ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "06:27",
+        "sender": "Jesse",
+        "text": "lol I got a date with an Olympic trainer next weekend ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "06:29",
+        "sender": "Jesse",
+        "text": "https://www.instagram.com/_alixvanwagoner",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "06:29",
+        "sender": "Jesse",
+        "text": "This one",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "07:36",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "07:49",
+        "sender": "Shubs",
+        "text": "Damn her boundary must not be that strong then ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "07:51",
+        "sender": "Jesse",
+        "text": "Maybe if you opened every hinge convo with a \u201cu got snap?\u201d too you\u2019d have better luck ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:01",
+        "sender": "Shubs",
+        "text": "I'm not trying to sleep w women under 24 tho :/ ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:13",
+        "sender": "Jesse",
+        "text": "Funny enough, odds are a low commitment situation might be what I need atm, re evaluate after South Africa ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:14",
+        "sender": "Connor",
+        "text": "Is she a low commitment situation?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:14",
+        "sender": "Jesse",
+        "text": "Idk ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:14",
+        "sender": "Jesse",
+        "text": "We\u2019ll find out ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:15",
+        "sender": "Connor",
+        "text": "\ufffcI\u2019m hoping you play the long game here because if I\u2019m still single by your wedding looks like she\u2019s got lots of model friends ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "08:17",
+        "sender": "Jesse",
+        "text": "Shubs are those the first 6 reasons why ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "08:18",
+        "sender": "Shubs",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "joty_time": "2025-01-06 11:21",
+    "joty_text": "JOTY adi",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:16",
+        "sender": "Jesse",
+        "text": "\ufffcBag of pasta ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:25",
+        "sender": "Will",
+        "text": "You planning to carbo load",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:04",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:04",
+        "sender": "Shubs",
+        "text": "Fuck",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:14",
+        "sender": "Jesse",
+        "text": "3 of these for 4.75 should be illegal ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:57",
+        "sender": "Shubs",
+        "text": "I'm sitting at the wine shop reading outside again, there's somebody performing some really lovely 1970s love song or something",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:12",
+        "sender": "Shubs",
+        "text": "\ufffcI made the newsletter ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "11:14",
+        "sender": "Morgan",
+        "text": "You are a vibe bro",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:15",
+        "sender": "Jesse",
+        "text": "Are your hands Caucasian here ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:20",
+        "sender": "Adi",
+        "text": "That is Frank ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:21",
+        "sender": "Shubs",
+        "text": "JOTY adi",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "joty_time": "2025-01-06 11:50",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:34",
+        "sender": "Jesse",
+        "text": "Ins 2025: \u201cthug it out\u201d ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:35",
+        "sender": "Morgan",
+        "text": "Disliked \u201cIns 2025: \u201cthug it out\u201d \u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:46",
+        "sender": "Adi",
+        "text": "Is this wine store only open Thursday - Sunday?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:47",
+        "sender": "Shubs",
+        "text": "But it's connected to another store so I pop by both stores almost every day anyway ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:47",
+        "sender": "Shubs",
+        "text": "I'll see if Nick can just tell the other store's worker what it is to snag it for me ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:48",
+        "sender": "Adi",
+        "text": "Apparently I am the new SS mouthpiece. \n\nMorgan: \u201ctell him that his order will arrive Tuesday or Wednesday to his mom\u2019s address that Jordan provided\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:49",
+        "sender": "Connor",
+        "text": "Adi \u201cHimmler\u201d Srikanth they call him ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:50",
+        "sender": "Adi",
+        "text": "Nickname would go hard in a Neo-Nazi pickup basketball league ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:50",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "joty_time": "2025-01-12 13:17",
+    "joty_text": "JOTY",
+    "joty_sender": "Connor",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:08",
+        "sender": "Shubs",
+        "text": "But yeah I guess she could just be mean lmao ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:12",
+        "sender": "Will",
+        "text": "Oh I thought Connor\u2019s joke was funny ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:12",
+        "sender": "Will",
+        "text": "How was KBBQ Connor, insane that it was three hours ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:12",
+        "sender": "Shubs",
+        "text": "They slow down the rate they bring out food right ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:12",
+        "sender": "Shubs",
+        "text": "To encourage you getting full on sides / drinks / your body not wanting more ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:18",
+        "sender": "Jesse",
+        "text": "\ufffcConnor last night ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:17",
+        "sender": "Connor",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "joty_time": "2025-01-12 13:26",
+    "joty_text": "JOTY",
+    "joty_sender": "Shubs",
+    "chat_name": "SleepyngAround",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:21",
+        "sender": "Jesse",
+        "text": "At capacity is fine imo ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:21",
+        "sender": "Shubs",
+        "text": "I feel like at capacity is a read between the lines thing ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:21",
+        "sender": "Geoff",
+        "text": "Mmm fair enough",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:22",
+        "sender": "Geoff",
+        "text": "More direct could also be \u201cnot sure if this would be healthy for me\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:23",
+        "sender": "Steven",
+        "text": "I think a \u201cNot healthy\u201d implies you still have feelings",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:25",
+        "sender": "Jesse",
+        "text": "Shubs do you? ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:26",
+        "sender": "Shubs",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "joty_time": "2025-01-13 12:14",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "00:16",
+        "sender": "Jesse",
+        "text": "Connor what was for dinner ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:18",
+        "sender": "Jesse",
+        "text": "\ufffcCan\u2019t win ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "10:34",
+        "sender": "Jesse",
+        "text": "Will do you know Steinza ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:34",
+        "sender": "Jesse",
+        "text": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD?si=xbwbY71gSfyO8J2HYbYofg",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:11",
+        "sender": "Will",
+        "text": "I don\u2019t but will give him a listen! ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:11",
+        "sender": "Will",
+        "text": "Is this Caamp\u2019s lead singer again ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:14",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "joty_time": "2025-01-16 11:48",
+    "joty_text": "JOTY",
+    "joty_sender": "Shubs",
+    "chat_name": "SleepyBois/users/cs/.",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "11:11",
+        "sender": "Geoff",
+        "text": "It\u2019s been extended bc he\u2019s getting let go today",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:11",
+        "sender": "Geoff",
+        "text": "Middle of the day",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:12",
+        "sender": "Adi",
+        "text": "He can watch Severance with Severance though ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:12",
+        "sender": "Geoff",
+        "text": "I don\u2019t know if he\u2019ll get any",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:13",
+        "sender": "Geoff",
+        "text": "I haven\u2019t been told anything",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:13",
+        "sender": "Adi",
+        "text": "Well he\u2019ll at least get Severance ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:35",
+        "sender": "Jesse",
+        "text": "If I had to commute downtown like I have to this week I\u2019d quit or move to capital hill \u2014 this is unsustainable ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:37",
+        "sender": "Shubs",
+        "text": "Me, begging to commute to SLU instead of Bellevue ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:38",
+        "sender": "Geoff",
+        "text": "The bus to SLU from Shubs\u2019 was not bad",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:38",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "11:39",
+        "sender": "Jesse",
+        "text": "TBT to pre covid when I couldn\u2019t go out on fridays I was so tired from fitting in commutes in the morning ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:39",
+        "sender": "Jesse",
+        "text": "In the bright side, bagel morning today in the office, with lox",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:39",
+        "sender": "Jesse",
+        "text": "Kinda like lox club but more men with bad posture and they\u2019re not Jewish ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:41",
+        "sender": "Jesse",
+        "text": "Our new intern is the most dead poet society lookin junior from u-mich  ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:48",
+        "sender": "Will",
+        "text": "Send his Twitter? \ud83d\udc49\ud83c\udffb\ud83d\udc48\ud83c\udffb",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:48",
+        "sender": "Shubs",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "joty_time": "2025-01-16 17:11",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "17:07",
+        "sender": "Shubs",
+        "text": "She's doing dry January so I brought a bottle of \"NON\" that I asked Jesse to pick up from nick ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:07",
+        "sender": "Shubs",
+        "text": "Basically just apple cider lmao ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:07",
+        "sender": "Shubs",
+        "text": "It's impressive how all nonalcoholic wines are just juice ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:07",
+        "sender": "Jesse",
+        "text": "What else would they be ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:08",
+        "sender": "Will",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "17:08",
+        "sender": "Jesse",
+        "text": "NON might be the most Alex Lao shit I\u2019ve ever seen come out of shubs ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "17:09",
+        "sender": "Shubs",
+        "text": "\ufffcThis is what ski trips w Alex are like",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "17:10",
+        "sender": "Will",
+        "text": "Y\u2019all doing lines of Masala?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "17:10",
+        "sender": "Jesse",
+        "text": "Which run is that at Jackson Hole? ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "17:11",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "joty_time": "2025-01-17 12:33",
+    "joty_text": "JOTY Morg",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:26",
+        "sender": "Shubs",
+        "text": "my understanding is that the evidence is pretty damnung against Baldoni",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:26",
+        "sender": "Adi",
+        "text": "Gotcha \u2014 so Blake lively is in the right?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:28",
+        "sender": "Jesse",
+        "text": "what is a damnung, wrong answers only ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:29",
+        "sender": "Adi",
+        "text": "I read it as damning ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:29",
+        "sender": "Jesse",
+        "text": "a right answer is not a wrong answer ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:31",
+        "sender": "Shubs",
+        "text": "Sorry my fingers are very cold and typing is hard haha ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:22",
+        "sender": "Will",
+        "text": "How\u2019s the mountain Shubs ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:23",
+        "sender": "Shubs",
+        "text": "Icy and foggy",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:24",
+        "sender": "Steven",
+        "text": "Wya?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:24",
+        "sender": "Jesse",
+        "text": "He can\u2019t tell ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:25",
+        "sender": "Will",
+        "text": "Disliked \u201cIcy and foggy\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:25",
+        "sender": "Will",
+        "text": "Damn that\u2019s surprising ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:25",
+        "sender": "Will",
+        "text": "Shubs how fast are you going ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:32",
+        "sender": "Morgan",
+        "text": "Shubs is in the grand tetons",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:32",
+        "sender": "Morgan",
+        "text": "I think Jess might have been last night too but wrong chat for that",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:33",
+        "sender": "Steven",
+        "text": "Grand Tetons solo? Huge",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:33",
+        "sender": "Will",
+        "text": "JOTY Morg",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "joty_time": "2025-01-17 12:39",
+    "joty_text": "JOTY",
+    "joty_sender": "Steven",
+    "chat_name": "SleepyngAround",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "00:04",
+        "sender": "Shubs",
+        "text": "There is a new cutie ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:04",
+        "sender": "Shubs",
+        "text": "Her boyfriend is also in the class ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:05",
+        "sender": "Adi",
+        "text": "Is this you telling us you\u2019re dating someone?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:06",
+        "sender": "Shubs",
+        "text": "No :/",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:08",
+        "sender": "Jesse",
+        "text": "Mr sideways mouth with a third date tomorrow",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:10",
+        "sender": "Steven",
+        "text": "First date goodbyes are the most confusing human interaction of all time",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:04",
+        "sender": "Shubs",
+        "text": "You gonna see her again?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:30",
+        "sender": "Adi",
+        "text": "What was the woman like?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:38",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "12:39",
+        "sender": "Steven",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "joty_time": "2025-01-22 02:49",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "22:50",
+        "sender": "Jordan",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "22:52",
+        "sender": "Jesse",
+        "text": "Better eat it quick but it gets cold ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:52",
+        "sender": "Steven",
+        "text": "That\u2019s the sandwich of a man with some warm dogs",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:53",
+        "sender": "Steven",
+        "text": "I\u2019m guessing socks to bed",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:54",
+        "sender": "Jordan",
+        "text": "Was hoping I could still stick a leg out from the comforter tn",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:55",
+        "sender": "Jesse",
+        "text": "If Adi lived in NY still he\u2019d probably be on the roof, live your best life. ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "02:49",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "joty_time": "2025-01-24 18:35",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Chalet",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "18:29",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "18:30",
+        "sender": "Connor",
+        "text": "Leading with the bikini pic I see\ud83e\uddd0",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:30",
+        "sender": "Shubs",
+        "text": "She's a maybe for tn if you wanted to hit on her ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:31",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "18:32",
+        "sender": "Will",
+        "text": "Disliked \u201cI think the cord got chewed \u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:32",
+        "sender": "Connor",
+        "text": "Maybe an \u201csmh\u201d for good measure ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:32",
+        "sender": "Will",
+        "text": "I\u2019m assuming it\u2019s the algo ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:32",
+        "sender": "Shubs",
+        "text": "Will hates body positivity ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:33",
+        "sender": "Will",
+        "text": "I think you\u2019re really saying that about Connor ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:34",
+        "sender": "Connor",
+        "text": "lol before I could reopen and send she\u2019s gone ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:34",
+        "sender": "Jesse",
+        "text": "Was she ever really there ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:34",
+        "sender": "Connor",
+        "text": "Ope she\u2019s back ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:35",
+        "sender": "Jesse",
+        "text": "So usps guy drops off the letters, says \u201cI got a big one for you in about 10 minutes\u201d ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:35",
+        "sender": "Shubs",
+        "text": "Big letter",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:35",
+        "sender": "Shubs",
+        "text": "Please",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:35",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "joty_time": "2025-01-26 14:04",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:32",
+        "sender": "Will",
+        "text": "La misma bongos ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:32",
+        "sender": "Will",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:44",
+        "sender": "Shubs",
+        "text": "It's fine I moved it already lmao ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:44",
+        "sender": "Shubs",
+        "text": "Took like 5 minutes ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:45",
+        "sender": "Will",
+        "text": "He called weight room on you Connor ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:45",
+        "sender": "Connor",
+        "text": "I\u2019m afraid he called waiting room on me Will ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:04",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "joty_time": "2025-01-29 15:09",
+    "joty_text": "JOTY",
+    "joty_sender": "Adi",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:14",
+        "sender": "Shubs",
+        "text": "To the tune of the apple jacks theme song",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:14",
+        "sender": "Shubs",
+        "text": "\"Here I come I am skinny-mon\"",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:15",
+        "sender": "Morgan",
+        "text": "Caffeine is a drug",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:23",
+        "sender": "Jordan",
+        "text": "Working alongside govt employees rn is so sad",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:42",
+        "sender": "Adi",
+        "text": "Currently under one of the worst flu viruses I\u2019ve had \u2014 get vax\u2019d! ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:44",
+        "sender": "Jesse",
+        "text": "Damn Shubs Will Connor Scientology just got knocked out for 2 days by the flu too ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:44",
+        "sender": "Morgan",
+        "text": "Yall have something to tell us?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:46",
+        "sender": "Jesse",
+        "text": "Scientology is the nickname of this girl because she was in a Scientology commune in Florida till she was 12 and there\u2019s too many people with her name that we know ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:47",
+        "sender": "Shubs",
+        "text": "It's actually just two ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:47",
+        "sender": "Shubs",
+        "text": "Both sexual prospects of yours ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:47",
+        "sender": "Shubs",
+        "text": "But just two ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:48",
+        "sender": "Steven",
+        "text": "Define prospects",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:48",
+        "sender": "Jesse",
+        "text": "One is on the list one might be on the list later this year ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:49",
+        "sender": "Adi",
+        "text": "The list of what ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:49",
+        "sender": "Steven",
+        "text": "The list being\u2026",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:49",
+        "sender": "Jesse",
+        "text": "You have one in your notes app I\u2019m sure ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:49",
+        "sender": "Steven",
+        "text": "I promise you I do not have a list in my phone of sexual prospects",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:50",
+        "sender": "Jesse",
+        "text": "Me neither ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:52",
+        "sender": "Steven",
+        "text": "So the question stands, what list ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:54",
+        "sender": "Shubs",
+        "text": "Of previous partners ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:56",
+        "sender": "Jesse",
+        "text": "Maybe it\u2019s more of a woman thing to have a list, but I\u2019ve bantered with dudes about it enough I guess I thought it was common place",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:56",
+        "sender": "Jesse",
+        "text": "https://www.glamour.com/story/why-do-people-keep-lists-of-past-sex-partners",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "14:56",
+        "sender": "Jesse",
+        "text": "This article I randomly found just now claims 56% of women respondents have a list lol ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:57",
+        "sender": "Morgan",
+        "text": "Appreciate your honesty steve",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:58",
+        "sender": "Steven",
+        "text": "\ud83e\udee1",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:58",
+        "sender": "Adi",
+        "text": "\ufffcYou dirty dog ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "14:59",
+        "sender": "Adi",
+        "text": "56% of respondents\u2026to the author\u2019s instagram stories poll ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:00",
+        "sender": "Jesse",
+        "text": "I didn\u2019t read past the number ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:01",
+        "sender": "Jesse",
+        "text": "You might think this suggests a high body count, but I think I made a list on partner 2. So idk ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:03",
+        "sender": "Shubs",
+        "text": "This feels like a mitch hedberg joke ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:03",
+        "sender": "Shubs",
+        "text": "\"My body count is high, but I started keeping track at 2\" ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:08",
+        "sender": "Andrew",
+        "text": "Pretty normal, I\u2019ve also been keeping a list",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:09",
+        "sender": "Adi",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "joty_time": "2025-02-01 05:13",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "SleepyngAround",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "18:35",
+        "sender": "Will",
+        "text": "\ufffclol this is pretty fun ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "18:35",
+        "sender": "Jesse",
+        "text": "You switching sides will ? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:36",
+        "sender": "Will",
+        "text": "Might as well! ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:41",
+        "sender": "Jesse",
+        "text": "Just got a coffee shop rec from a dc Raya match who used to live in Cape Town \u2014 it\u2019s all paying off ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "03:55",
+        "sender": "Jesse",
+        "text": "\ufffcIdk if it\u2019s gonna work ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "05:12",
+        "sender": "Morgan",
+        "text": "Maybe those are IKEA?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "05:13",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "joty_time": "2025-02-03 15:28",
+    "joty_text": "JOTY",
+    "joty_sender": "Morgan",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "15:25",
+        "sender": "Steven",
+        "text": "Waiting for Adi to come in with his Mucinex hype",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Will",
+        "text": "Real talk Mucinex and Sudaphed are also gas",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Jesse",
+        "text": "What ever happened to him and Lean ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Will",
+        "text": "Was really congested last week and ripped that combo ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Steven",
+        "text": "Excuse me Theraflu is Adi\u2019s drug of choice",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:26",
+        "sender": "Will",
+        "text": "Hasn\u2019t Theraflu been shown to do nothing ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:27",
+        "sender": "Shubs",
+        "text": "Nah that's the fake sudafed",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:27",
+        "sender": "Shubs",
+        "text": "Pseudofed",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:28",
+        "sender": "Will",
+        "text": "You mean Elon?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:28",
+        "sender": "Morgan",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "joty_time": "2025-02-03 15:29",
+    "joty_text": "JOTY as well haha",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "15:20",
+        "sender": "Morgan",
+        "text": "\ufffcHell yeah, where do I get this",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Steven",
+        "text": "Waiting for Adi to come in with his Mucinex hype",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Will",
+        "text": "Real talk Mucinex and Sudaphed are also gas",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Jesse",
+        "text": "What ever happened to him and Lean ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Will",
+        "text": "Was really congested last week and ripped that combo ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Steven",
+        "text": "Excuse me Theraflu is Adi\u2019s drug of choice",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:26",
+        "sender": "Shubs",
+        "text": "You were in Greece during the lean phase ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:27",
+        "sender": "Steven",
+        "text": "Is that what Will left in my fridge for months? ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:29",
+        "sender": "Will",
+        "text": "JOTY as well haha",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "joty_time": "2025-02-14 10:50",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "SleepyngAround",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:23",
+        "sender": "Connor",
+        "text": "also \u201c5ft tall on a good day\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:23",
+        "sender": "Connor",
+        "text": "Jesse I thought we had an agreement ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:25",
+        "sender": "Jesse",
+        "text": "She really wears 5ft like 5\u20195\u2019\u2019",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:25",
+        "sender": "Jesse",
+        "text": "Incredible runner for how short her legs are ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "09:06",
+        "sender": "Jesse",
+        "text": "\ufffcTurn out was wild ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "09:07",
+        "sender": "Jesse",
+        "text": "https://share.icloud.com/photos/073Dd54ffpbwqFInhYU8Pf1Nw",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "10:47",
+        "sender": "Steven",
+        "text": "Is the second guy on the mic the host?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:47",
+        "sender": "Jesse",
+        "text": "Yeah, he owns the gear shop",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:49",
+        "sender": "Will",
+        "text": "Why isn\u2019t he bigger ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:49",
+        "sender": "Adi",
+        "text": "Reacted \u2699\ufe0f to \u201cYeah, he owns the gear shop\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:50",
+        "sender": "Adi",
+        "text": "It\u2019s about how he uses it ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:50",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "joty_time": "2025-02-14 11:53",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "SleePPL",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:03",
+        "sender": "Will",
+        "text": "WHAT",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:35",
+        "sender": "Adi",
+        "text": "When is the Gilman Classic this year?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:50",
+        "sender": "Shubs",
+        "text": "Idk",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:50",
+        "sender": "Shubs",
+        "text": "The summer ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:51",
+        "sender": "Will",
+        "text": "Whenever Andrew visits ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:52",
+        "sender": "Jesse",
+        "text": "Idk if he can afford the flights after his rim job ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:53",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "joty_time": "2025-02-14 12:16",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Cheoff",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:10",
+        "sender": "Geoff",
+        "text": "We\u2019re making sushi tn",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:10",
+        "sender": "Shubs",
+        "text": "It's an Austrian pinot blanc varietal ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:10",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:11",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:11",
+        "sender": "Shubs",
+        "text": "Beautiful hue",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:15",
+        "sender": "Adi",
+        "text": "Is this with Erin?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:16",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "joty_time": "2025-02-14 12:38",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Cheoff",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:38",
+        "sender": "Geoff",
+        "text": "what the fuck",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:38",
+        "sender": "Shubs",
+        "text": "Send it back ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:38",
+        "sender": "Jesse",
+        "text": "Disliked an image",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:38",
+        "sender": "Jesse",
+        "text": "That\u2019s the worst thing I\u2019ve ever seen ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:38",
+        "sender": "Geoff",
+        "text": "wait can I see a pic of the bagel exterior",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:38",
+        "sender": "Morgan",
+        "text": "OnlyBagels",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:38",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "joty_time": "2025-02-17 22:32",
+    "joty_text": "JOTY",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "20:31",
+        "sender": "Steven",
+        "text": "Mad man",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "20:37",
+        "sender": "Jesse",
+        "text": "It\u2019s what plants crave ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:53",
+        "sender": "Jesse",
+        "text": "Coconut water before bed really becoming a must have ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:54",
+        "sender": "Will",
+        "text": "I guess 7 is before bed ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:55",
+        "sender": "Jesse",
+        "text": "Yall hear about this meteor lol",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:55",
+        "sender": "Jesse",
+        "text": "It\u2019s like 2.5% chance gonna hit us now ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "22:32",
+        "sender": "Morgan",
+        "text": "That means that 2.5% of the earth is getting hit right?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "22:32",
+        "sender": "Shubs",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "joty_time": "2025-02-21 11:39",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "SleepyBois/users/cs/.",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "16:00",
+        "sender": "Jesse",
+        "text": "And he voted for Hillary Clinton! ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:05",
+        "sender": "Jesse",
+        "text": "I wonder what the overlap is between people with a deviated septum and herpes 1",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:28",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "23:45",
+        "sender": "Jesse",
+        "text": "https://en.m.wikipedia.org/wiki/Thiel_Fellowship",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "10:27",
+        "sender": "Jesse",
+        "text": "\ufffcHow many blocks you think he took ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "11:28",
+        "sender": "Will",
+        "text": "If he said this to me in person I\u2019d punch him in the face ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:39",
+        "sender": "Adi",
+        "text": "0% ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:39",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "joty_time": "2025-02-21 16:12",
+    "joty_text": "\ufffcJOTY",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "15:01",
+        "sender": "Jesse",
+        "text": "I got a lot of good use out of it and sold it for like 85% of what I paid, no regrets ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:01",
+        "sender": "Jordan",
+        "text": "No chance they put us in lockdown",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:02",
+        "sender": "Shubs",
+        "text": "Removed a like from \u201cNo chance they put us in lockdown\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:10",
+        "sender": "Connor",
+        "text": "You gotta look for things that Jesse said during Covid that he would never talk about/do otherwise ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:10",
+        "sender": "Jesse",
+        "text": "Like what ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:10",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "16:12",
+        "sender": "Shubs",
+        "text": "\ufffcJOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "joty_time": "2025-02-22 14:41",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "14:08",
+        "sender": "Shubs",
+        "text": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx?si=x8R42ixaTKivTYv1Xbt8OA",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:09",
+        "sender": "Connor",
+        "text": "https://open.spotify.com/track/4DOHFrl6jaUELG2nyOxLWA?si=silp-ekZTC2gVPT08gsdaw",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:09",
+        "sender": "Connor",
+        "text": "Seems like a great time to listen to the second verse 7 times (now on Spotify)",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:39",
+        "sender": "Will",
+        "text": "Alright so you\u2019re going today then Connor?  Sorry been feeling a lil off this am, shouldn\u2019t have stayed out so late while still recovering",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:40",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:40",
+        "sender": "Connor",
+        "text": "by off do you mean hungover lol ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:41",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "joty_time": "2025-02-23 13:34",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "SleePPL",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "13:23",
+        "sender": "Will",
+        "text": "Just from their open roles ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:23",
+        "sender": "Jesse",
+        "text": "Are the open roles senior ? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:23",
+        "sender": "Will",
+        "text": "I\u2019d have a hard time getting it regardless bc my role title hasn\u2019t been Product Manager even though that\u2019s basically what I\u2019ve been doing ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:24",
+        "sender": "Jesse",
+        "text": "I feel like I\u2019m questioning a politician lol",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:27",
+        "sender": "Will",
+        "text": "I suppose there will be a political opening in SF soon",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:28",
+        "sender": "Adi",
+        "text": "Role Title match is so annoying ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:29",
+        "sender": "Will",
+        "text": "I know :/",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:29",
+        "sender": "Will",
+        "text": "\ufffcThis is their description for one of the seniors, sounds like a role at or below my level at MSFT",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:30",
+        "sender": "Adi",
+        "text": "This would be great, I don\u2019t have any referrers at Databricks",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:32",
+        "sender": "Jesse",
+        "text": "Wait will is just because of John Spencer haha ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:32",
+        "sender": "Will",
+        "text": "Yeah I started looking bc of John ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:33",
+        "sender": "Will",
+        "text": "Still looking internally and will be looking at the other big bois as well ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:33",
+        "sender": "Will",
+        "text": "He said they\u2019re hiring a ton which a lot of MSFT can\u2019t say",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:33",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:34",
+        "sender": "Will",
+        "text": "Oh it\u2019s been an experience ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:34",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "joty_time": "2025-02-23 13:34",
+    "joty_text": "JOTY",
+    "joty_sender": "Adi",
+    "chat_name": "SleePPL",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:30",
+        "sender": "Adi",
+        "text": "This would be great, I don\u2019t have any referrers at Databricks",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:32",
+        "sender": "Jesse",
+        "text": "Wait will is just because of John Spencer haha ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:32",
+        "sender": "Will",
+        "text": "Yeah I started looking bc of John ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:33",
+        "sender": "Will",
+        "text": "Still looking internally and will be looking at the other big bois as well ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:33",
+        "sender": "Will",
+        "text": "He said they\u2019re hiring a ton which a lot of MSFT can\u2019t say",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:33",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:34",
+        "sender": "Adi",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "joty_time": "2025-02-23 19:01",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "18:55",
+        "sender": "Jesse",
+        "text": "Bro just found out he got the Rhodes scholarship",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:55",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "18:55",
+        "sender": "Shubs",
+        "text": "We're engaged ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:55",
+        "sender": "Jesse",
+        "text": "You and everyone else, buddy ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:57",
+        "sender": "Will",
+        "text": "\ufffcConnor after avoiding sleek rock\u00a0\u00a0",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "18:58",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "18:58",
+        "sender": "Jesse",
+        "text": "PSP was way whiter than I remember ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:59",
+        "sender": "Will",
+        "text": "Why is your brother holding a child like that ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:00",
+        "sender": "Connor",
+        "text": "It\u2019s my cousin this was our AZ squad at the family beach trip",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:01",
+        "sender": "Shubs",
+        "text": "Siblings Cousins or dating ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:01",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "joty_time": "2025-03-02 23:39",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "21:56",
+        "sender": "Connor",
+        "text": "I just went on a date with a Chilean bumble girl, good second language reps for both of us ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:31",
+        "sender": "Connor",
+        "text": "Yeah it\u2019s not but she likes my smile and thinks I\u2019m funny so it was okay ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:34",
+        "sender": "Will",
+        "text": "Oh I know ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:34",
+        "sender": "Will",
+        "text": "I was kidding without being too sexual ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "23:24",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "23:32",
+        "sender": "Shubs",
+        "text": "5' 11\"",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "23:39",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "joty_time": "2025-03-12 19:09",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "17:01",
+        "sender": "Morgan",
+        "text": "Honestly havent seen or heard much in my circles, I only just heard ab it an hr ago",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:02",
+        "sender": "Morgan",
+        "text": "I think the student group leaders are huddling to release statements soon",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:03",
+        "sender": "Morgan",
+        "text": "Seems really shady and creepy though, I wouldn\u2019t be surprised if they did this before spring break knowingly",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:04",
+        "sender": "Adi",
+        "text": "Not gonna lie, I\u2019ve never heard of the Popular Front for the Liberation of Palestine, which seems to be the cited reason for all of this ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:18",
+        "sender": "Morgan",
+        "text": "\ufffcCouple layers of ambiguity re: what groups she is a part of, what basis there is for thinking she is part of any group, and whether any group she is affiliated with is a designated terrorist org or supportive of one \u2014 any which way, this is part of a concerted campaign by a pro-Israel group to get a Palestinian scholar banned from teaching or getting funding and it seems like YLS is ready to roll over. People working in international human rights jobs interface with advocacy and activist groups \u2014 if they can\u2019t do that and universities won\u2019t defend them, idk under what principle academic freedom can actually be plausibly protected. ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "17:21",
+        "sender": "Morgan",
+        "text": "TLDR: some website - no author - claimed that the scholar is connected to a Palestinian rights group, Samidoun. That group, in turn, has connections to a Palestinian militant liberation group, which is deemed terrorist. But the scholar says she doesn\u2019t even have connections to the first group, Samidoun, let alone the Popular Front militant group.",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:49",
+        "sender": "Adi",
+        "text": "Apparently the website uses AI to write articles ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:50",
+        "sender": "Adi",
+        "text": "Via Gizmodo: \u201cThe article that led to her suspension was published in Jewish Onliner, a Substack that says it is \u201cempowered by A.I. capabilities.\u201d\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:53",
+        "sender": "Shubs",
+        "text": "shanatov.ai",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:09",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "joty_time": "2025-03-19 12:56",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:51",
+        "sender": "Adi",
+        "text": "What\u2019s the best food you\u2019ve had in ANC? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:54",
+        "sender": "Jesse",
+        "text": "\ufffc\ufffc\ufffcIdk if \u201cbest\u201d but I really love yak & yeti which is fast casual Himalayan, will and shubs have had, it\u2019s cheap and a ton of food and they do a really good job \u2014 independent spot, vegetarian friendly, 12.99 now for one of these bowls but that\u2019s still relatively cheap with no sales tax ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:55",
+        "sender": "Jesse",
+        "text": "They have 6 veg and 6 meat \u201ccurries\u201d and you can get up to 3 in the 12.99 price ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:56",
+        "sender": "Shubs",
+        "text": "Yak and yeti confirmed heater ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:56",
+        "sender": "Shubs",
+        "text": "Also that pizza we got where max housed 1.5 pies was really good too",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:56",
+        "sender": "Adi",
+        "text": "Yak and Yeti was also the theme of DKE\u2019s Spring Break 2017",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:56",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "joty_time": "2025-03-26 15:38",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "SleepyBois/users/cs/.",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "19:50",
+        "sender": "Shubs",
+        "text": "A shame, they're only hiring eng in LatAm ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:58",
+        "sender": "Will",
+        "text": "Next step in my PIP is talking to randomly assorted folks across my org that I\u2019ll learn nothing from :)",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:27",
+        "sender": "Geoff",
+        "text": "Dude that got fired from my team just introduced himself as a deloitte contractor on the new project my former co-lead is now on",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:28",
+        "sender": "Geoff",
+        "text": "Got a ping from I guy I know on that contract that goes \u201cdo you know bailey\u201d and I was like ahahahahahaha",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:36",
+        "sender": "Jesse",
+        "text": "Do you feel better now lol ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:37",
+        "sender": "Shubs",
+        "text": "Geoff you should sue deloitte for Bailey violating his noncompete",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:38",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "joty_time": "2025-03-31 00:05",
+    "joty_text": "JOTY",
+    "joty_sender": "Morgan",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "00:01",
+        "sender": "Morgan",
+        "text": "Overseas indicates Atlantic or Pacific, not the same Hemisphere",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:01",
+        "sender": "Morgan",
+        "text": "Not Ecuador, even",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:01",
+        "sender": "Will",
+        "text": "Incredibly well said ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:01",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "00:01",
+        "sender": "Jesse",
+        "text": "Ecuador is in the conversation ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:03",
+        "sender": "Jesse",
+        "text": "https://www.perplexity.ai/search/would-it-be-appropriate-to-say-tPhVFXKSS36dcN_gzSSCaw#0",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "00:03",
+        "sender": "Jesse",
+        "text": "Will ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "00:03",
+        "sender": "Jesse",
+        "text": "This is the culmination of all written human knowledge ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "00:03",
+        "sender": "Will",
+        "text": "Sad to see AI still has a long way to go ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "00:05",
+        "sender": "Morgan",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "joty_time": "2025-03-31 11:54",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:45",
+        "sender": "Jesse",
+        "text": "Limited tokens I think, I expensed for 200/year to my education stipend because I can justify it to work  ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:47",
+        "sender": "Jordan",
+        "text": "I use chat gpt pretty frequently. It\u2019s so helpful",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:48",
+        "sender": "Jordan",
+        "text": "(Unpaid)",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:50",
+        "sender": "Morgan",
+        "text": "I use chat gpt infrequently like maybe every other week for curiosity questions ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:51",
+        "sender": "Morgan",
+        "text": "I have a feeling I should be using it to better my lifestyle, professional or financial choices or to make money somehow but idk",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:53",
+        "sender": "Morgan",
+        "text": "\ufffc?",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "11:54",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "joty_time": "2025-04-04 15:17",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "SleepyBois/users/cs/.",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "15:13",
+        "sender": "Jesse",
+        "text": "What\u2019s a SWE 2 don\u2019t yall start at 51 or something ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:14",
+        "sender": "Will",
+        "text": "Yeah kind of incredible they don't have something in place. Or maybe they do / she knows someone higher up?  idk  ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:15",
+        "sender": "Geoff",
+        "text": "Test it",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:15",
+        "sender": "Jesse",
+        "text": "\u201ctest\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:15",
+        "sender": "Will",
+        "text": "yeah at the bottom of the email she said to reply all if you feel the same lol ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:15",
+        "sender": "Geoff",
+        "text": "Reply all \u201cplease remove me from this thread\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:17",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "joty_time": "2025-04-04 15:19",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "SleepyBois/users/cs/.",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "19:25",
+        "sender": "Jesse",
+        "text": "When your open PR from a bit ago was approved by someone who just left the company \ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:29",
+        "sender": "Jesse",
+        "text": "https://www.reuters.com/technology/klarna-pauses-us-ipo-plans-amid-tariff-turmoil-wsj-reports-2025-04-04/",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:50",
+        "sender": "Jesse",
+        "text": "I wonder if we\u2019re gonna see layoffs ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:50",
+        "sender": "Shubs",
+        "text": "We being stripe or we being the US economy ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:51",
+        "sender": "Jesse",
+        "text": "I\u2019m not talking about just stripe ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:10",
+        "sender": "Will",
+        "text": "Wild, a SWE 2 just sent an email to all of Microsoft about the company\u2019s negative role in Gaza.  Apparently she interjected during Satya\u2019s speech during our 50th anniversary talk earlier as well.  Hard to imagine she won\u2019t be blackballed from every major tech firm but she probably understood that as well ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:19",
+        "sender": "Adi",
+        "text": "She\u2019s going to livid when she finds out that she\u2019s not going to be able to work for Meta ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "15:19",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "joty_time": "2025-04-14 14:17",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "16:40",
+        "sender": "Morgan",
+        "text": "https://x.com/KevOnStage/status/1911251325368549582",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "16:40",
+        "sender": "Morgan",
+        "text": "It\u2019s been a while",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:18",
+        "sender": "Steven",
+        "text": "Did y\u2019all know I saw this performed live at a club in Athens lmao",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:24",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:55",
+        "sender": "Shubs",
+        "text": "https://abc7.com/post/51-magnitude-earthquake-strikes-san-diego-usgs-says/16171163/",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:12",
+        "sender": "Connor",
+        "text": "A red eye flight ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:17",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "joty_time": "2025-05-01 22:44",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Wall Sleep Bets ",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:10",
+        "sender": "Will",
+        "text": "So 65% bitcoin ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:11",
+        "sender": "Jesse",
+        "text": "Micro strategy is almost like leveraged BTC ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:12",
+        "sender": "Will",
+        "text": "So 115% bitcoin ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:16",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "16:17",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "17:09",
+        "sender": "Connor",
+        "text": "https://www.boatus.org/washington",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "22:44",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "joty_time": "2025-05-14 14:48",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "14:26",
+        "sender": "Will",
+        "text": "So they don\u2019t let you haha ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:27",
+        "sender": "Shubs",
+        "text": "Gg",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:28",
+        "sender": "Will",
+        "text": "Yeah crazy, that\u2019s the sort of shit that makes me not like the company ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:35",
+        "sender": "Shubs",
+        "text": "Penny pinchers out here ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:45",
+        "sender": "Jesse",
+        "text": "You\u2019re gonna like the way you sleep tho ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:48",
+        "sender": "Shubs",
+        "text": "love the way you lie",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:48",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "joty_time": "2025-06-03 12:01",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:32",
+        "sender": "Jordan",
+        "text": "Yeah if it\u2019s above 45 or so I\u2019m shorts and a tshirt/tank",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:35",
+        "sender": "Will",
+        "text": "Spoken like a true Chicagoan ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:45",
+        "sender": "Adi",
+        "text": "I\u2019m warm by the time I get back, but it allows me to get cool immediately after taking off my sweatshirt ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:46",
+        "sender": "Shubs",
+        "text": "I'm happy for u ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:46",
+        "sender": "Adi",
+        "text": "I just took off my sweatshirt ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:47",
+        "sender": "Shubs",
+        "text": "Adi u can't be sexting in main ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:01",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "joty_time": "2025-06-13 22:28",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:46",
+        "sender": "Jesse",
+        "text": "Connor I don\u2019t love how you wrote \u201cback\u201d to charlotte ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:46",
+        "sender": "Jordan",
+        "text": "Reacted \ud83c\udf7b to \u201cGonna golf 18 this evening, then maybe hit a sneaky bender before flying back to Charlotte tomorrow\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:49",
+        "sender": "Connor",
+        "text": "Jesse you might be able to catch my same direct flight from Seattle if you book now ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:50",
+        "sender": "Shubs",
+        "text": "Seeing Charli XCX tomorrow",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:27",
+        "sender": "Jesse",
+        "text": "\ufffcGeoff ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "22:27",
+        "sender": "Steven",
+        "text": "He says \u201cgood stuff\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "22:27",
+        "sender": "Jordan",
+        "text": "I blame Adi",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "22:28",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "joty_time": "2025-06-15 15:32",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "11:37",
+        "sender": "Shubs",
+        "text": "I think Geoff is pressed rn ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:43",
+        "sender": "Jesse",
+        "text": "Happy birth Connor, the man the myth, the legend [without a Facebook birthday]",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:47",
+        "sender": "Morgan",
+        "text": "Reacted \ud83c\udf7b to \u201cHappy birth Connor, the man the myth, the legend [without a Facebook birthday]\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:57",
+        "sender": "Jesse",
+        "text": "\ufffcLUCIA \n\nY O U N G\n\nCOCONUT JUICE",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:57",
+        "sender": "Jordan",
+        "text": "Once again, I\u2019ll wait",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:01",
+        "sender": "Jesse",
+        "text": "https://apnews.com/article/alaska-first-ever-heat-advisory-df913edec183efd7b1b800fab33ff1ad",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:01",
+        "sender": "Jesse",
+        "text": "Ope",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:08",
+        "sender": "Adi",
+        "text": "Stay strong brother ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:21",
+        "sender": "Will",
+        "text": "Have never associated AK with beaches ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:18",
+        "sender": "Shubs",
+        "text": "\ufffcSmartwater really holding the line",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "15:19",
+        "sender": "Morgan",
+        "text": "lol huh ? What\u2019s smartwater doing w the bobbies",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:21",
+        "sender": "Adi",
+        "text": "Interesting \u2014 not the smart water we think ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:22",
+        "sender": "Shubs",
+        "text": "https://en.wikipedia.org/wiki/SmartWater",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "15:23",
+        "sender": "Adi",
+        "text": "Still don\u2019t fully understand how it works. Like how is it traced?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:25",
+        "sender": "Morgan",
+        "text": "Maybe in a couple years they\u2019ll roll out an even stronger forensic tracker for murder scenes, Liquid Death \u2122 ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:32",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "joty_time": "2025-07-02 23:39",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:40",
+        "sender": "Jesse",
+        "text": "I\u2019m going to deny all knowledge of his marriage until I see him on that roof ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:50",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:51",
+        "sender": "Shubs",
+        "text": "Team's got a tradition of parting gift to the liquor cabinet ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:52",
+        "sender": "Jesse",
+        "text": "Container kill tonight",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:38",
+        "sender": "Shubs",
+        "text": "\ud83e\udd79",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:38",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "23:33",
+        "sender": "Shubs",
+        "text": "I'll let Maggie know she got a full sleepy sweep ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "23:33",
+        "sender": "Shubs",
+        "text": "\ufffcCan the real shubs please stand up ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "23:38",
+        "sender": "Adi",
+        "text": "Finally a Maggie that knows Java ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "23:39",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "joty_time": "2025-07-18 13:06",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "12:49",
+        "sender": "Jesse",
+        "text": "Fair to all but there was no oof with Michelle ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:50",
+        "sender": "Shubs",
+        "text": "As always, I, and I assume the other two dingoes here, am excited to meet Ayla at the wedding ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:56",
+        "sender": "Will",
+        "text": "Really?  You\u2019re just saying it wasn\u2019t a surprise or what ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:56",
+        "sender": "Will",
+        "text": "You talked about her for awhile after (which is super fair)",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:59",
+        "sender": "Jesse",
+        "text": "Ohh I mean I definitely had a big crush on her but that last date was like super explicitly the last time we were going to hang out \u2014 it was a shock because she made me think I did something wrong and then disappeared until she called me and told me a bit out of a sitcom haha",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:00",
+        "sender": "Will",
+        "text": "Damn",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:00",
+        "sender": "Will",
+        "text": "I\u2019d forgotten about that ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:00",
+        "sender": "Jesse",
+        "text": "Idk I thought talking about her was mostly a bit lol, she\u2019s super hot and fun, but it\u2019s mostly a \u201cugh lol\u201d ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:01",
+        "sender": "Jesse",
+        "text": "Connor doesn\u2019t like the use of ugh there ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:04",
+        "sender": "Will",
+        "text": "You loved her ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:04",
+        "sender": "Jesse",
+        "text": "Agreed",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:04",
+        "sender": "Jesse",
+        "text": "If you love them let them go, Will",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:04",
+        "sender": "Will",
+        "text": "Well said ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:05",
+        "sender": "Jesse",
+        "text": "All of this said we do have a 42 marriage pact ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:06",
+        "sender": "Connor",
+        "text": "Little did you know the guy she\u2019s seeing had the same one, and is already 42",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:06",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "joty_time": "2025-07-18 18:52",
+    "joty_text": "Another joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "17:40",
+        "sender": "Shubs",
+        "text": "1-800-273-8255",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:41",
+        "sender": "Will",
+        "text": "Did Logic write a song about this ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:41",
+        "sender": "Shubs",
+        "text": "Who can relate? Woo!",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:41",
+        "sender": "Connor",
+        "text": "\ufffcLove getting these on a Friday afternoon",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "18:41",
+        "sender": "Jesse",
+        "text": "Disliked an image",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:42",
+        "sender": "Connor",
+        "text": "Guess I\u2019ll cancel date #1 tomorrow",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:42",
+        "sender": "Will",
+        "text": "You have multiple dates tomorrow?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:45",
+        "sender": "Connor",
+        "text": "Potentially yeah because my usual dates are going to a wedding",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:46",
+        "sender": "Will",
+        "text": "Hell yeah ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:46",
+        "sender": "Will",
+        "text": "Tax?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:48",
+        "sender": "Connor",
+        "text": "They don\u2019t collect on unearned income actually ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:50",
+        "sender": "Will",
+        "text": "Disliked \u201cThey don\u2019t collect on unearned income actually \u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:52",
+        "sender": "Shubs",
+        "text": "Connor that was good",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:52",
+        "sender": "Shubs",
+        "text": "Another joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "joty_time": "2025-08-01 11:34",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Chalet",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "18:22",
+        "sender": "Shubs",
+        "text": "Uhhhh idk prob like 50k",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:22",
+        "sender": "Jesse",
+        "text": "Does she still have another job ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:22",
+        "sender": "Shubs",
+        "text": "Her second book has gotten sold before she published her first ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:22",
+        "sender": "Shubs",
+        "text": "Nah ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:23",
+        "sender": "Jesse",
+        "text": "Crazy",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "20:22",
+        "sender": "Connor",
+        "text": "\ufffcGuess Eden has friends in town ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "23:07",
+        "sender": "Shubs",
+        "text": "Ran into them just now actually ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "23:07",
+        "sender": "Shubs",
+        "text": "All yours Connor ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "10:28",
+        "sender": "Connor",
+        "text": "I think I wanna try to hit on Erica at Solenn\u2019s instead but thanks though",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:10",
+        "sender": "Jesse",
+        "text": "I like this for you ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:32",
+        "sender": "Shubs",
+        "text": "Anyway, all yours Connor because I ulted too early and have fumbled it LMAO",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:32",
+        "sender": "Jesse",
+        "text": "Premature ult? HIMS has something for that ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:34",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "joty_time": "2025-08-01 11:45",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "SleePPL",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:49",
+        "sender": "Connor",
+        "text": "Reminds me I need to start doing some track workouts in case we ever decathlon ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:41",
+        "sender": "Jesse",
+        "text": "I took no pics but it was a fun event, people just in goofy fits running ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:41",
+        "sender": "Jesse",
+        "text": "This one dude did hit a 4:32 mile tho which was p sick haha",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:42",
+        "sender": "Will",
+        "text": "How many girls did he get ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:43",
+        "sender": "Jesse",
+        "text": "Unclear ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:43",
+        "sender": "Adi",
+        "text": "I feel like we need a version of the normal distribution meme where on the left side it\u2019s like 3rd graders and on the right side it\u2019s like late 20s professionals and both groups have \u201cfastest person gets all the girls\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:45",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "joty_time": "2025-08-01 18:15",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "17:55",
+        "sender": "Adi",
+        "text": "Black tie Virginia wedding in August? You have no responsibilities whatsoever \u2014 showing up is going above and beyond ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:59",
+        "sender": "Morgan",
+        "text": "If you\u2019ve got the $50, why not if it\u2019ll settle the open q. Don\u2019t think it\u2019s bad form not to gift extra tho",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:01",
+        "sender": "Jesse",
+        "text": "I think of it as, would you expect another gift? If not then don\u2019t. If so then give ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:07",
+        "sender": "Adi",
+        "text": "Did the people who cancelled give a gift?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:08",
+        "sender": "Adi",
+        "text": "Not saying it would impact my decision, just would be funny if they turned a profit here ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:14",
+        "sender": "Morgan",
+        "text": "You probably can\u2019t sue them for unjust enrichment if you already accepted their invitation as consideration for your attendance at the wedding. But if you put Heather on notice that you would mitigate her damages in light of a material change in circumstances\u2014by having Hannah sub in for the guests who didn\u2019t perform and for whom Heather detrimentally relied in her purchasing (the food, seating, etc.)\u2014you could argue that by selecting Hannah, as a noticed third party beneficiary of your and Heather\u2019s contract, you don\u2019t owe any obligation to backfill Heather\u2019s damages by bringing an additional gift. You\u2019ve already brought the additional gift: Hannah",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "18:15",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "joty_time": "2025-08-05 19:24",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:20",
+        "sender": "Shubs",
+        "text": "that's actually the dangerous catch ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:22",
+        "sender": "Adi",
+        "text": "I\u2019d generally prefer things to be juicier/more moist than not enough ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:22",
+        "sender": "Jesse",
+        "text": "Is generally just more often than not ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:23",
+        "sender": "Adi",
+        "text": "In more hypothetical situations than not I think ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:23",
+        "sender": "Shubs",
+        "text": "I'm on board until structural integrity is compromised ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:24",
+        "sender": "Adi",
+        "text": "Shubs \ud83e\udd1d Passengers on the Titanic ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:24",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "joty_time": "2025-08-13 16:00",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:11",
+        "sender": "Steven",
+        "text": "Andrew can we have a full life update from the ether?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:59",
+        "sender": "Jesse",
+        "text": "I didn\u2019t realize how weird of a transition state saudi Arabia was in atm ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:01",
+        "sender": "Morgan",
+        "text": "Yeah that was suuper interesting",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:06",
+        "sender": "Will",
+        "text": "Holy \u201cMs. Walsh estimated the cost of Ms. Rodri\u0301guez\u2019s ring to be at least $5 million, and the total weight to be around 35 carats\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:07",
+        "sender": "Jesse",
+        "text": "If you had that ring you\u2019d be the poorest rich man ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:09",
+        "sender": "Morgan",
+        "text": "If you had that ring you\u2019d be married to Cristiano Ronaldo ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "16:00",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "joty_time": "2025-08-16 13:37",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:17",
+        "sender": "Morgan",
+        "text": "https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:18",
+        "sender": "Shubs",
+        "text": "The rate at which China is electrifying is incredible ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:18",
+        "sender": "Morgan",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:18",
+        "sender": "Morgan",
+        "text": "Is there any strong case we aren\u2019t in a bubble ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:20",
+        "sender": "Morgan",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:26",
+        "sender": "Jesse",
+        "text": "\ufffc\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:29",
+        "sender": "Connor",
+        "text": "Friend of Ayla\u2019s?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:30",
+        "sender": "Jesse",
+        "text": "Yeah she\u2019s taken tho :\u2019) ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:30",
+        "sender": "Jesse",
+        "text": "Also very tall ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:32",
+        "sender": "Will",
+        "text": "Fucked up ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:32",
+        "sender": "Connor",
+        "text": "\ufffc\ufffcDon\u2019t ask me how I deduced it ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:37",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "joty_time": "2025-08-16 13:51",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "SleePPL",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:26",
+        "sender": "Shubs",
+        "text": "Adi I'm sure I'll hear later but I bet these lads would be curious about a trip report ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:28",
+        "sender": "Adi",
+        "text": "My \ud83c\udfd5\ufe0f trip or \ud83c\udf44 trip? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:36",
+        "sender": "Shubs",
+        "text": "Either ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:45",
+        "sender": "Adi",
+        "text": "\ufffc\ufffc\ufffc\ufffcGood vibrations overall \u2014 went with Kevyn. Not much of a backpacking trip compared to what yall pull off ngl \n\nHiked a few miles to Tenas Lakes in Oregon, scoped out a killer site and then just did some small side quests in the area. Hit a shrooms trip by the side of the lake for a few hours, did some mini hikes, swam in the lake \n\nReally enjoyed the trip (first backpacking trip for me with filtering water) but definitely some lessons learned \n- want to get to trailhead earlier \n- want to pack lighter \n- want to spend more time looking for a campsite \n\nDefinitely will be hitting more trips and more involved trips soon! ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:45",
+        "sender": "Adi",
+        "text": "More pics to come after I get my film developed ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:49",
+        "sender": "Adi",
+        "text": "\ufffcTook a lot of notes ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:51",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "joty_time": "2025-08-18 12:29",
+    "joty_text": "JOTY Adi",
+    "joty_sender": "Will",
+    "chat_name": "SleePPL",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "13:47",
+        "sender": "Jesse",
+        "text": "Questioned \u201cYou try their Cod bar?\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:50",
+        "sender": "Adi",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:50",
+        "sender": "Jesse",
+        "text": "No way ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:52",
+        "sender": "Adi",
+        "text": "https://www.instagram.com/reel/DMF-W6xq6Uw/?igsh=NjZiM2M3MzIxNA==",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "10:03",
+        "sender": "Adi",
+        "text": "I\u2019d rather go to the gym and not lift than go to the gym and not stretch ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:06",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "11:11",
+        "sender": "Adi",
+        "text": "Shrodinger\u2019s Hair of the Dog ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:27",
+        "sender": "Connor",
+        "text": "Questioned \u201cShrodinger\u2019s Hair of the Dog \u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:32",
+        "sender": "Adi",
+        "text": "https://www.allrecipes.com/high-noon-celsius-energy-drink-recall-july-2025-11781889",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "11:36",
+        "sender": "Connor",
+        "text": "Oh right right ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:29",
+        "sender": "Will",
+        "text": "JOTY Adi",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "joty_time": "2025-08-21 01:22",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "01:07",
+        "sender": "Will",
+        "text": "I also hope I never have a \u201creal\u201d emergency bc SPD ain\u2019t coming ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:14",
+        "sender": "Will",
+        "text": "Feels disrespectful to swipe on hinge tn ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:15",
+        "sender": "Will",
+        "text": "Thought I\u2019d run out of people but my radius was set to 2 miles for some reason",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:20",
+        "sender": "Jesse",
+        "text": "Honestly ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:26",
+        "sender": "Will",
+        "text": "One funny element I forgot was we talked to a couple a the end of the bar when we came back and 1) the girl was nonchalantly like oh yeah my purse has been snatched too and 2) I\u2019ve seen this girl on hinge she\u2019s into ethical non-monogamy and works at Blackrock ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:29",
+        "sender": "Shubs",
+        "text": "The thief was actually her primary ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:36",
+        "sender": "Will",
+        "text": "I should\u2019ve asked her on a date ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:19",
+        "sender": "Will",
+        "text": "\ufffcFound your wife Connor ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "01:20",
+        "sender": "Jesse",
+        "text": "I can\u2019t believe she chose that as her first pic the rest are so much better lol",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:21",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "01:21",
+        "sender": "Will",
+        "text": "Yeah wonder if it\u2019s Hinge doing it but, don\u2019t love the camping one but she seems fun/cute ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:22",
+        "sender": "Will",
+        "text": "Receipts ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:22",
+        "sender": "Connor",
+        "text": "\ufffcLook I found yours too ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "01:22",
+        "sender": "Will",
+        "text": "Hahaha touch\u00e9 ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:22",
+        "sender": "Shubs",
+        "text": "LMAO",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:22",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "joty_time": "2025-08-21 13:12",
+    "joty_text": "JOTY Adi",
+    "joty_sender": "Jesse",
+    "chat_name": "SleepyngAround",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "18:34",
+        "sender": "Jesse",
+        "text": "Angelina Jolie is a conventionally attractive person, great proportions and symmetry, but I wouldn\u2019t get a crush on her like I do every other girl walking down the street in NYC ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:37",
+        "sender": "Jesse",
+        "text": "2001 Tracey Faucet tho",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:37",
+        "sender": "Jesse",
+        "text": "(Actress: Amy Smart)",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:37",
+        "sender": "Jesse",
+        "text": "What a last name ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:01",
+        "sender": "Jesse",
+        "text": "Update: Ayla and I are officially official ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:01",
+        "sender": "Jesse",
+        "text": "\ufffcThis is her ",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:08",
+        "sender": "Shubs",
+        "text": "Now there's a couple on LSD if I've ever seen it ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:09",
+        "sender": "Geoff",
+        "text": "Is this a joke or actually the case",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:10",
+        "sender": "Shubs",
+        "text": "The prosecution rests",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:10",
+        "sender": "Adi",
+        "text": "I guess it depends on whether or not Shubs has ever seen a couple on LSD ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:10",
+        "sender": "Will",
+        "text": "Just ask Grok ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "13:12",
+        "sender": "Jesse",
+        "text": "JOTY Adi",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "joty_time": "2025-08-28 11:28",
+    "joty_text": "JOTY",
+    "joty_sender": "Adi",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:03",
+        "sender": "Steven",
+        "text": "Who is the non-kenji guy?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:06",
+        "sender": "Adi",
+        "text": "Ray Delahanty \u2014 he has a YouTube channel called CityNerd ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:09",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "11:26",
+        "sender": "Adi",
+        "text": "Also \u2014 today is National Crackers Over the Keyboard Day!",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:27",
+        "sender": "Jesse",
+        "text": "Should we be celebrating that?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:28",
+        "sender": "Shubs",
+        "text": "Jesse, you deserve to be celebrated at work every day",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:28",
+        "sender": "Adi",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "joty_time": "2025-09-05 12:12",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "12:34",
+        "sender": "Morgan",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:34",
+        "sender": "Connor",
+        "text": "https://www.reddit.com/r/NatureIsFuckingLit/s/RBXk9ldXbr",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:34",
+        "sender": "Connor",
+        "text": "What a Komodo dragon wishes it was",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:23",
+        "sender": "Adi",
+        "text": "https://www.theguardian.com/film/2025/sep/03/the-voice-of-hind-rajab-gets-23-minute-ovation-at-venice-film-festival",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:36",
+        "sender": "Shubs",
+        "text": "A kid just looked around, littered, and then we made eye contact & he picked it back up ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:36",
+        "sender": "Shubs",
+        "text": "We gotta bring back calling people out, why tf would he think that's okay ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "17:23",
+        "sender": "Jesse",
+        "text": "\ufffcCracks me up ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "20:32",
+        "sender": "Adi",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "20:36",
+        "sender": "Jesse",
+        "text": "Wdyt it dreams about ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "20:38",
+        "sender": "Adi",
+        "text": "Chasing a rainbow toy, food, napping in the sun ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:11",
+        "sender": "Adi",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "21:13",
+        "sender": "Adi",
+        "text": "I wish they were able to map complaints to unique poops",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:38",
+        "sender": "Adi",
+        "text": "Happy National Be Late for Something Day!",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:42",
+        "sender": "Shubs",
+        "text": "Practicing rn \ud83e\udee1",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:33",
+        "sender": "Jesse",
+        "text": "Sorry just saw this",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:12",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "joty_time": "2025-09-05 16:33",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "15:41",
+        "sender": "Shubs",
+        "text": "It's a line",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:14",
+        "sender": "Jordan",
+        "text": "Pips was hard today",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:15",
+        "sender": "Jesse",
+        "text": "Pips? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:15",
+        "sender": "Jordan",
+        "text": "New NYT game",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:15",
+        "sender": "Jordan",
+        "text": "With dominos",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:16",
+        "sender": "Will",
+        "text": "You get laid off but first you have to solve a puzzle ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "16:33",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "joty_time": "2025-09-07 11:58",
+    "joty_text": "JOTY",
+    "joty_sender": "Morgan",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "18:52",
+        "sender": "Jesse",
+        "text": "There\u2019s a linear joke/call back to be made here but idk what it Is ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:52",
+        "sender": "Steven",
+        "text": "Just wait until August 2041",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "18:52",
+        "sender": "Steven",
+        "text": "Then I\u2019ll have answers ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:00",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "02:17",
+        "sender": "Adi",
+        "text": "Met a guy today who was truly divorced from social media/online culture. Dude literally was asking how TikTok worked, was like \u201cso is it mostly just videos?\u201d\n\nI would pay money to not know what TikTok was like",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:11",
+        "sender": "Shubs",
+        "text": "People have been mishearing Frank when I order food lately",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:54",
+        "sender": "Will",
+        "text": "What\u2019ve they been hearing ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:55",
+        "sender": "Jesse",
+        "text": "Shubs ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:58",
+        "sender": "Morgan",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "joty_time": "2025-09-08 14:57",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:45",
+        "sender": "Jesse",
+        "text": "They must right ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:46",
+        "sender": "Adi",
+        "text": "Coffee and Boba ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:51",
+        "sender": "Jesse",
+        "text": "Maybe it\u2019s a front ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:34",
+        "sender": "Adi",
+        "text": "https://www.reddit.com/r/unpopularopinion/s/po2D2yWEwY",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "14:21",
+        "sender": "Shubs",
+        "text": "Guys I finally got to say it ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "14:21",
+        "sender": "Shubs",
+        "text": "I showed my mom my piercing and she said \"oh you're just in a phase\"",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "14:57",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "joty_time": "2025-09-18 01:19",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Chalet",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "01:04",
+        "sender": "Will",
+        "text": "Sequential ones ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:06",
+        "sender": "Jesse",
+        "text": "\ufffc\ufffcThis is the delusion of the right  ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "01:07",
+        "sender": "Jesse",
+        "text": "Idk if yall saw that a journalist asked trump how he was holding up personally and he was like yeah I\u2019m fine and then just started talking about his new ballroom lmao ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:07",
+        "sender": "Jesse",
+        "text": "It was so callous ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:07",
+        "sender": "Will",
+        "text": "Yeah was crazy ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:07",
+        "sender": "Jesse",
+        "text": "Eddy\u2019s read was \u201ctrump is just coping\u201d LMAO ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:07",
+        "sender": "Will",
+        "text": "Nothing they\u2019re doing shouts mourning ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:07",
+        "sender": "Will",
+        "text": "It\u2019s shouts grifting ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:08",
+        "sender": "Will",
+        "text": "Confirmation bias is a bitch ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:15",
+        "sender": "Will",
+        "text": "\ufffcHow does this make y\u2019all feel.\u00a0\u00a0Theoretically it shouldn\u2019t change anything but it does ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "01:17",
+        "sender": "Shubs",
+        "text": "\ufffcFeel great ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "01:17",
+        "sender": "Jesse",
+        "text": "You have no idea what she means by adjacent ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:18",
+        "sender": "Jesse",
+        "text": "Will you could probably teach her about how to use that word less ambiguously ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:18",
+        "sender": "Will",
+        "text": "Go forth and prosper Shubs ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:19",
+        "sender": "Jesse",
+        "text": "A few months ago you coulda been right there with him will ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "01:19",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "joty_time": "2025-09-20 21:40",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Chalet",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "15:34",
+        "sender": "Jesse",
+        "text": "I\u2019d love for you to go to crackle next week and they just give you the cold shoulder ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:34",
+        "sender": "Will",
+        "text": "That\u2019s a bread sandwich lol ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:36",
+        "sender": "Will",
+        "text": "Really did this the hard way going to other coast ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:37",
+        "sender": "Shubs",
+        "text": "Crazy you reacted to the correct message in a different chat ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:37",
+        "sender": "Shubs",
+        "text": "And then replied to it here ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:37",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "15:38",
+        "sender": "Will",
+        "text": "Oh that was intentional haha ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:54",
+        "sender": "Shubs",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "15:54",
+        "sender": "Shubs",
+        "text": "Different but still good ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:54",
+        "sender": "Shubs",
+        "text": "I'm not getting it again tho ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:55",
+        "sender": "Shubs",
+        "text": "Isn't better than their normal sandwiches ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:39",
+        "sender": "Will",
+        "text": "She\u2019s a 10 I\u2019ve seen at the gym but she has elf ears in one of her pics ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:39",
+        "sender": "Shubs",
+        "text": "Still a 10",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:39",
+        "sender": "Will",
+        "text": "Damn ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:40",
+        "sender": "Shubs",
+        "text": "Galadriel was the fairest elf of them all ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:40",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "joty_time": "2025-09-21 13:55",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": false,
+    "context": [
+      {
+        "time": "10:19",
+        "sender": "Steven",
+        "text": "Disliked \u201cLiterally 20 degrees hotter today than tomorrow and the rest of the week\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:20",
+        "sender": "Steven",
+        "text": "Berlin is historically the easiest course too, right?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:20",
+        "sender": "Steven",
+        "text": "Easiest while still literally being a marathon of course lol",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:20",
+        "sender": "Jesse",
+        "text": "Yeah super flat ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:20",
+        "sender": "Jesse",
+        "text": "Winner today won by 4 minutes",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:20",
+        "sender": "Jesse",
+        "text": "2:02 lmao",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:20",
+        "sender": "Jesse",
+        "text": "I\u2019m curious what it would have been at 60 degrees",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:21",
+        "sender": "Steven",
+        "text": "9th fastest time ever",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:21",
+        "sender": "Adi",
+        "text": "Disliked \u201cLiterally 20 degrees hotter today than tomorrow and the rest of the week\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:28",
+        "sender": "Connor",
+        "text": "Harry Styles broke 3 hours ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:28",
+        "sender": "Adi",
+        "text": "Flashback for September 20, 2025\n\n28 points\n\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\n\nPlay here:",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:34",
+        "sender": "Shubs",
+        "text": "Disliked \u201cLiterally 20 degrees hotter today than tomorrow and the rest of the week\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:15",
+        "sender": "Connor",
+        "text": "\ufffcGuess I could replace the whoop ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "13:15",
+        "sender": "Jordan",
+        "text": "My taxi driver is listening to a lecture on quantum mechanics",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:25",
+        "sender": "Morgan",
+        "text": "Or is he",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "13:55",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "joty_time": "2025-09-26 02:05",
+    "joty_text": "JOTY",
+    "joty_sender": "Connor",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "22:11",
+        "sender": "Connor",
+        "text": "The road to 305 never ended ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:13",
+        "sender": "Shubs",
+        "text": "The stray taco ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "22:23",
+        "sender": "Connor",
+        "text": "Did you get tickets for them at the Jefferson too?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:36",
+        "sender": "Adi",
+        "text": "https://www.cnn.com/2025/09/25/tech/microsoft-israel-surveillance",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "00:36",
+        "sender": "Adi",
+        "text": "Great work Will ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "00:36",
+        "sender": "Adi",
+        "text": "Though arguably the best way to slow down Israel\u2019s military was to make them use Microsoft Azure ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "02:05",
+        "sender": "Connor",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "joty_time": "2025-10-02 12:44",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "SleePPL",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "11:55",
+        "sender": "Jesse",
+        "text": "Forgot my watch leaving the house today",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "11:55",
+        "sender": "Jesse",
+        "text": "Gone rogue ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:39",
+        "sender": "Will",
+        "text": "How will you know where you are ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:39",
+        "sender": "Jesse",
+        "text": "I won\u2019t, but you will, and by then it\u2019ll be too late ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:40",
+        "sender": "Will",
+        "text": "Is this the start of No Time to Die ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:41",
+        "sender": "Jesse",
+        "text": "Isnt that a 5.10a route in alpental? ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:44",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "joty_time": "2025-11-13 19:33",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "19:28",
+        "sender": "Shubs",
+        "text": "\ufffcHere's me tho ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "19:28",
+        "sender": "Jesse",
+        "text": "I just can\u2019t tell when I should answer 2 layers deep vs 1 ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:29",
+        "sender": "Jesse",
+        "text": "Like I don\u2019t think someone 35 weeks pregnant should be able to abort because they don\u2019t want a boy but is that part of most for most people or nah lmao ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:31",
+        "sender": "Jesse",
+        "text": "There\u2019s how do survey makers want me to answer it based on what I think, how other people will answer it based on what they think, and what I want to answer it based on what I think and there aren\u2019t enough base truths to build an effective comparison model ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:31",
+        "sender": "Adi",
+        "text": "I think you should answer 1 layer deep ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:31",
+        "sender": "Jesse",
+        "text": "They could improve tho, like add a definition of hate speech ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:33",
+        "sender": "Morgan",
+        "text": "Me re: the US Constitution",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "19:33",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "joty_time": "2025-11-18 21:54",
+    "joty_text": "JOTY",
+    "joty_sender": "Morgan",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "15:16",
+        "sender": "Jesse",
+        "text": "National Princess Day today, interesting Adi missed announcing it",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:17",
+        "sender": "Jesse",
+        "text": "\u201cIt's a day to celebrate the qualities of a princess in everyone\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "20:58",
+        "sender": "Jesse",
+        "text": "Adi what\u2019s your review or Uber as a an employer and work place thus far ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:47",
+        "sender": "Connor",
+        "text": "Just got chipotle, asked for side guac, the lady just put the guac like to one side of the bowl lmao ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:48",
+        "sender": "Connor",
+        "text": "Giggled the rest of the way through checkout. Close enough ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:54",
+        "sender": "Connor",
+        "text": "On a different note, the senate unanimously voting to release Epstein files is big \u201cred characters also voting to approve final quest in Avalon\u201d energy ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "21:54",
+        "sender": "Morgan",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "joty_time": "2025-11-25 12:09",
+    "joty_text": "JOTY Connor",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "08:43",
+        "sender": "Jesse",
+        "text": "\ufffcI feel like every day the discount gets bigger in my email ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "10:14",
+        "sender": "Adi",
+        "text": "Jesse big meet the sibs day for Ayla yesterday?",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:46",
+        "sender": "Jesse",
+        "text": "Yessir ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:49",
+        "sender": "Will",
+        "text": "Say more ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "10:58",
+        "sender": "Adi",
+        "text": "https://x.com/tanya_sabrinaaa/status/1993011471392149775?s=46",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "10:59",
+        "sender": "Connor",
+        "text": "She doing thanksgiving with yall then?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:01",
+        "sender": "Jesse",
+        "text": "Yep",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:03",
+        "sender": "Jesse",
+        "text": "Basically we planned to escape Alaska for Christmas time to Florida and at that point we were like \u201cwell if you\u2019re committed to meet my entire family in December and you don\u2019t do thanksgiving with yours you might as well come to my thanksgiving too\u201d and at that point if she was going to fly to the east coast twice to see my family then we should see hers too which is why it worked out like this ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:04",
+        "sender": "Steven",
+        "text": "Maybe too personal a question but, does she not do any major holidays with her family?",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:05",
+        "sender": "Jesse",
+        "text": "Her family just doesn\u2019t do thanksgiving or Christmas really, they kinda do a solstice celebration i think, they\u2019re a bit hippy dippy ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:05",
+        "sender": "Jesse",
+        "text": "Never really did holidays ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:06",
+        "sender": "Steven",
+        "text": "A solstice celebration? Fascinating",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:12",
+        "sender": "Jesse",
+        "text": "Yeah her parents are interesting, very sweet and smart people but def a particular brand of home body \u2014 her dad was a physics Dartmouth grad and did research for 3 years before bailing from Boston and buying some land to build a house on and just teaching physics/math the rest of his career at a small school in rural NH. They heat their house with wood off the land, hand built solar rig powers most their electricity, well water for the house, they make their own maple syrup/berry wine, don\u2019t really travel too much just do their own thing. Her brother lives 10 minutes away and she lives in anchorage lol. Definitely a funny spread ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:17",
+        "sender": "Connor",
+        "text": "Did he design the Death Star ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:17",
+        "sender": "Connor",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "11:18",
+        "sender": "Jesse",
+        "text": "I almost believe he could have, dude is a meme of a tinkerer \u2014 was ready for him to press a button and 100 iron man suits were gonna start flying around ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:09",
+        "sender": "Will",
+        "text": "JOTY Connor",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "joty_time": "2025-11-25 12:36",
+    "joty_text": "Joty",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:14",
+        "sender": "Shubs",
+        "text": "Did I miss something ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:14",
+        "sender": "Shubs",
+        "text": "Is Virginia the sunshine state",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:14",
+        "sender": "Shubs",
+        "text": "I thought Virginia was for lovers ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:15",
+        "sender": "Jesse",
+        "text": "I think he\u2019s asking about Florida in December ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:15",
+        "sender": "Jesse",
+        "text": "5 days William ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:15",
+        "sender": "Jesse",
+        "text": "Much shorter than you\u2019ll be in the mountain parrot state ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:18",
+        "sender": "Will",
+        "text": "Are Kea\u2019s on y\u2019all\u2019s lists ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:19",
+        "sender": "Jesse",
+        "text": "Which list ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:19",
+        "sender": "Will",
+        "text": "Of birds to see ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:22",
+        "sender": "Jesse",
+        "text": "\ufffc\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "12:22",
+        "sender": "Will",
+        "text": "Great bird ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:23",
+        "sender": "Jesse",
+        "text": "Have you heard the one about the Scandinavian mountain parrot who introduced itself? ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:24",
+        "sender": "Jesse",
+        "text": "\u201cIKEA\u201d",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:35",
+        "sender": "Will",
+        "text": "I\u2019ll let someone else nom but I got a good chuckle out of this ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "12:36",
+        "sender": "Shubs",
+        "text": "Joty",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "joty_time": "2025-11-26 21:47",
+    "joty_text": "JOTY",
+    "joty_sender": "Shubs",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "19:10",
+        "sender": "Adi",
+        "text": "Juneteenth on a Friday next year let\u2019s go",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "19:26",
+        "sender": "Adi",
+        "text": "https://shop.offline.community/products/month-offline-nyc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "21:40",
+        "sender": "Jordan",
+        "text": "My cousin is pledging a frat at UT Austin right now and \u201cisn\u2019t allowed to play games\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:42",
+        "sender": "Jordan",
+        "text": "Like if there\u2019s corn hole set up, and he\u2019s just sitting around and decides to play it he\u2019d get in trouble with the fraternity if they caught him playing it",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:43",
+        "sender": "Morgan",
+        "text": "Disliked \u201cLike if there\u2019s corn hole set up, and he\u2019s just sitting around and decides to play it he\u2019d get in trouble with the fraternity if they caught him playing it\u201d",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:43",
+        "sender": "Connor",
+        "text": "Damn Jesse you should rush ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "21:47",
+        "sender": "Shubs",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "joty_time": "2025-11-30 21:18",
+    "joty_text": "JOTY",
+    "joty_sender": "Connor",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "16:03",
+        "sender": "Adi",
+        "text": "Insane seats ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:11",
+        "sender": "Adi",
+        "text": "Tony P leaving the US for the first time ever! He\u2019s going to Brussels and Rome ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:35",
+        "sender": "Adi",
+        "text": "https://www.youtube.com/watch?v=qAxA3dwhEE8",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "16:35",
+        "sender": "Adi",
+        "text": "#1 might intrigue you ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "16:59",
+        "sender": "Shubs",
+        "text": "Well that's a photo of Seattle ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "21:14",
+        "sender": "Adi",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "21:15",
+        "sender": "Shubs",
+        "text": "Wow ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "21:15",
+        "sender": "Shubs",
+        "text": "Congrats man ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "21:15",
+        "sender": "Shubs",
+        "text": "When's the due date",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "21:18",
+        "sender": "Connor",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "joty_time": "2025-12-11 13:18",
+    "joty_text": "JOTY",
+    "joty_sender": "Will",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "09:57",
+        "sender": "Adi",
+        "text": "Showed the stripe tweet to Kevyn for a different perspective \u2014 she was also completely lost by the phrasing/construction of the tweet (\u201cnow that I\u2019ve read this 20 times, it\u2019s easy to parse\u201d lol)\n\nSome shared thoughts:\n\nOn the tweet: \n- for some reason neither of us could get over the phrasing/general presentation of the tweet\n- Kevyn made the point (which I agree with) that Collison both dresses up his tweet via sophisticated language/references and dresses down his tweet via internet speak but for many readers achieves neither the added specificity you would want with more sophistication nor the added relatability often afforded by internet speak \n- overall we both felt like the tweet was very gatekeepy and status signaling \u2014 which is relevant because it calls into question the actual purpose of the tweet \n\nOn the tweet\u2019s points:\n- claims seem plausible overall (might be somewhat cool if true), but generally unverifiable and a bit broad \u2014 not opining on the utility of Twitter generally, but I actually would prefer to see this in a substack because I think some detail would be pretty impactful \n- not sure how \u201cwhat is worthy and valuable\u201d is actually becoming *more* central \u2014 hasn\u2019t this always been the central question for any entrepreneur? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:05",
+        "sender": "Jesse",
+        "text": "If the question is \u201cdo people in tech think about what they\u2019re doing and how it affects society\u201d the answer is, ofc, some do. Even many. People have differing motives in my experience, some want a financial exit, some want to retire their parents, some are there by inertia and others are passionate about engineering. Theres no single mold, but in any case there\u2019s a ton, and I mean a TON, of introspective content wrt what it is people are building and why especially with more high impact products like those in AI. A lot of engineers write blogs on all levels of the stack. \n\n>hasn\u2019t this always been the central question for entrepreneurs \n\nYeah I think this is my point. Is he asking what non elite start up founders are motivated by? Or the every day worker? Again, start ups are motivated by market viability and the upside of a technical space.. individuals then aid endeavors based on a variety of motives. This has always been the case, another interpretation is too heady\n\nBut if he\u2019s asking what the elites care about, I mean, musk clearly has his motives, thiele his own, Zuck his own. If they feel less excited about doom scrolling and ai agent drones and Mars missions that\u2019s their own boredom feigning as a broader philosophical shift imo. \n\nThis idea that \u201cI talked to some multi multi millionaires/billionaires and they don\u2019t know what\u2019s exciting rn\u201d I just don\u2019t get what this is talking about besides trendiness \n\n- websites were trendy\n- apps were trendy \n- social media was trendy\n- crypto was trendy \n- metaverse was trendy \n- AI IS trendy \n\nAre we concerned with what\u2019s next ? It doesn\u2019t read like that per se, he\u2019s talking about what people think is worth working on broadly, but isn\u2019t that just trends x market viability lol ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:27",
+        "sender": "Will",
+        "text": "They\u2019re really just like us, this breakfast spot just played Mac Miller followed by Jack Johnson ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:29",
+        "sender": "Jesse",
+        "text": "Have you been able to get by ok with English ? ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "15:37",
+        "sender": "Will",
+        "text": "Still a bit of a language gap but we\u2019re getting by",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "20:47",
+        "sender": "Will",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "20:50",
+        "sender": "Jesse",
+        "text": "Wonder if that\u2019s where their partners retire",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "21:27",
+        "sender": "Will",
+        "text": "Nah that\u2019s Valhalla ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:05",
+        "sender": "Jesse",
+        "text": "I\u2019m glad you liked this joke btw ",
+        "has_image": false,
+        "in_thread": true
+      },
+      {
+        "time": "11:05",
+        "sender": "Jesse",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "13:18",
+        "sender": "Will",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "joty_time": "2025-12-15 12:23",
+    "joty_text": "JOTY",
+    "joty_sender": "Jesse",
+    "chat_name": "Sleepy Bois \ud83c\udf19\u2728",
+    "is_thread": true,
+    "context": [
+      {
+        "time": "12:13",
+        "sender": "Jesse",
+        "text": "Did it just show up in the app",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:14",
+        "sender": "Adi",
+        "text": "\ufffcI guess I ride so little that it thinks I order food a lot? I think I had like 11 eats orders lol ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:14",
+        "sender": "Jordan",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:16",
+        "sender": "Jesse",
+        "text": "\ufffcMy app is so diff ",
+        "has_image": true,
+        "in_thread": false
+      },
+      {
+        "time": "12:16",
+        "sender": "Jesse",
+        "text": "I don\u2019t have a wrapped I guess ",
+        "has_image": false,
+        "in_thread": false
+      },
+      {
+        "time": "12:22",
+        "sender": "Morgan",
+        "text": "\ufffc",
+        "has_image": true,
+        "in_thread": true
+      },
+      {
+        "time": "12:23",
+        "sender": "Jesse",
+        "text": "JOTY",
+        "has_image": false,
+        "is_joty": true,
+        "in_thread": true
+      }
+    ]
+  }
+]
