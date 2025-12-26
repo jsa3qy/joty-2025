@@ -256,11 +256,11 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 
 **Context:**
 ```
-22:50 Jordan: ￼ 📷
+22:50 Geoff: ￼ 📷
 22:52 Jesse: Better eat it quick but it gets cold 
 22:52 Steven: That’s the sandwich of a man with some warm dogs
 22:53 Steven: I’m guessing socks to bed
-22:54 Jordan: Was hoping I could still stick a leg out from the comforter tn
+22:54 Geoff: Was hoping I could still stick a leg out from the comforter tn
     ↳ 22:55 Jesse: If Adi lived in NY still he’d probably be on the roof, live your best life. 
     ↳ 02:49 Shubs: ⭐ Joty ⭐
 ```
@@ -328,7 +328,7 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 12:14 Shubs: To the tune of the apple jacks theme song
 12:14 Shubs: "Here I come I am skinny-mon"
 12:15 Morgan: Caffeine is a drug
-14:23 Jordan: Working alongside govt employees rn is so sad
+14:23 Geoff: Working alongside govt employees rn is so sad
 14:42 Adi: Currently under one of the worst flu viruses I’ve had — get vax’d! 
     ↳ 14:44 Jesse: Damn Shubs Will Connor Scientology just got knocked out for 2 days by the flu too 
     ↳ 14:44 Morgan: Yall have something to tell us?
@@ -564,7 +564,7 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 **Context:**
 ```
 15:01 Jesse: I got a lot of good use out of it and sold it for like 85% of what I paid, no regrets 
-15:01 Jordan: No chance they put us in lockdown
+15:01 Geoff: No chance they put us in lockdown
 15:02 Shubs: Removed a like from “No chance they put us in lockdown”
 16:10 Connor: You gotta look for things that Jesse said during Covid that he would never talk about/do otherwise 
 16:10 Jesse: Like what 
@@ -783,8 +783,8 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 **Context:**
 ```
 11:45 Jesse: Limited tokens I think, I expensed for 200/year to my education stipend because I can justify it to work  
-11:47 Jordan: I use chat gpt pretty frequently. It’s so helpful
-11:48 Jordan: (Unpaid)
+11:47 Geoff: I use chat gpt pretty frequently. It’s so helpful
+11:48 Geoff: (Unpaid)
 11:50 Morgan: I use chat gpt infrequently like maybe every other week for curiosity questions 
 11:51 Morgan: I have a feeling I should be using it to better my lifestyle, professional or financial choices or to make money somehow but idk
     ↳ 11:53 Morgan: ￼? 📷
@@ -905,7 +905,7 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 
 **Context:**
 ```
-11:32 Jordan: Yeah if it’s above 45 or so I’m shorts and a tshirt/tank
+11:32 Geoff: Yeah if it’s above 45 or so I’m shorts and a tshirt/tank
 11:35 Will: Spoken like a true Chicagoan 
 11:45 Adi: I’m warm by the time I get back, but it allows me to get cool immediately after taking off my sweatshirt 
 11:46 Shubs: I'm happy for u 
@@ -926,16 +926,16 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 **Context:**
 ```
 12:46 Jesse: Connor I don’t love how you wrote “back” to charlotte 
-12:46 Jordan: Reacted 🍻 to “Gonna golf 18 this evening, then maybe hit a sneaky bender before flying back to Charlotte tomorrow”
+12:46 Geoff: Reacted 🍻 to “Gonna golf 18 this evening, then maybe hit a sneaky bender before flying back to Charlotte tomorrow”
 12:49 Connor: Jesse you might be able to catch my same direct flight from Seattle if you book now 
 12:50 Shubs: Seeing Charli XCX tomorrow
 22:27 Jesse: ￼Geoff  📷
     ↳ 22:27 Steven: He says “good stuff”
-    ↳ 22:27 Jordan: I blame Adi
+    ↳ 22:27 Geoff: I blame Adi
     ↳ 22:28 Jesse: ⭐ JOTY ⭐
 ```
 
-**Likely joke:** "I blame Adi" — Jordan
+**Likely joke:** "I blame Adi" — Geoff
 
 ---
 
@@ -954,7 +954,7 @@ Morgan: “tell him that his order will arrive Tuesday or Wednesday to his mom�
 Y O U N G
 
 COCONUT JUICE 📷
-13:57 Jordan: Once again, I’ll wait
+13:57 Geoff: Once again, I’ll wait
 14:01 Jesse: https://apnews.com/article/alaska-first-ever-heat-advisory-df913edec183efd7b1b800fab33ff1ad 📷
 14:01 Jesse: Ope
 14:08 Adi: Stay strong brother 
@@ -1350,10 +1350,10 @@ Definitely will be hitting more trips and more involved trips soon!  📷
 **Context:**
 ```
 15:41 Shubs: It's a line
-16:14 Jordan: Pips was hard today
+16:14 Geoff: Pips was hard today
 16:15 Jesse: Pips? 
-16:15 Jordan: New NYT game
-16:15 Jordan: With dominos
+16:15 Geoff: New NYT game
+16:15 Geoff: With dominos
     ↳ 16:16 Will: You get laid off but first you have to solve a puzzle 
     ↳ 16:33 Shubs: ⭐ Joty ⭐
 ```
@@ -1489,7 +1489,7 @@ I would pay money to not know what TikTok was like
 Play here:
 10:34 Shubs: Disliked “Literally 20 degrees hotter today than tomorrow and the rest of the week”
 12:15 Connor: ￼Guess I could replace the whoop  📷
-13:15 Jordan: My taxi driver is listening to a lecture on quantum mechanics
+13:15 Geoff: My taxi driver is listening to a lecture on quantum mechanics
 13:25 Morgan: Or is he
 13:55 Shubs: ⭐ Joty ⭐
 ```
@@ -1646,8 +1646,8 @@ Play here:
 ```
 19:10 Adi: Juneteenth on a Friday next year let’s go
 19:26 Adi: https://shop.offline.community/products/month-offline-nyc 📷
-21:40 Jordan: My cousin is pledging a frat at UT Austin right now and “isn’t allowed to play games”
-21:42 Jordan: Like if there’s corn hole set up, and he’s just sitting around and decides to play it he’d get in trouble with the fraternity if they caught him playing it
+21:40 Geoff: My cousin is pledging a frat at UT Austin right now and “isn’t allowed to play games”
+21:42 Geoff: Like if there’s corn hole set up, and he’s just sitting around and decides to play it he’d get in trouble with the fraternity if they caught him playing it
 21:43 Morgan: Disliked “Like if there’s corn hole set up, and he’s just sitting around and decides to play it he’d get in trouble with the fraternity if they caught him playing it”
     ↳ 21:43 Connor: Damn Jesse you should rush 
     ↳ 21:47 Shubs: ⭐ JOTY ⭐
@@ -1741,7 +1741,7 @@ Are we concerned with what’s next ? It doesn’t read like that per se, he’s
 ```
 12:13 Jesse: Did it just show up in the app
 12:14 Adi: ￼I guess I ride so little that it thinks I order food a lot? I think I had like 11 eats orders lol  📷
-12:14 Jordan: ￼ 📷
+12:14 Geoff: ￼ 📷
 12:16 Jesse: ￼My app is so diff  📷
 12:16 Jesse: I don’t have a wrapped I guess 
     ↳ 12:22 Morgan: ￼ 📷
